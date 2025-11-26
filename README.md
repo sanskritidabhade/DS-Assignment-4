@@ -21,7 +21,3 @@ Question 7: Print out the cars_m_h_s object without any duplicates.
 Question 8: Print out from cars_m_h_s object all the observations which have mpg>20 and hp>100. 
 
 Question 9: Select the ‘Lotus Europa’ car.
-
-
-
-                                               -----------------------------------------------------
